@@ -12,7 +12,6 @@ import os
 import io
 import base64
 from PIL import Image
-import potrace
 
 st.set_page_config(page_title="PNG ↔ SVG Converter", page_icon="🔄", layout="centered")
 
